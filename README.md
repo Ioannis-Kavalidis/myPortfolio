@@ -2,7 +2,7 @@
 
 ![portfolio image](./img/porfolio.png)
 
-## I hope you all enjoy my portfolio website! Just follow the following link to take a look at it: [a link](https://ioannis-kavalidis.github.io/myPortfolio/) 
+## I hope you all enjoy my portfolio website! Just follow the following link to take a look at it: [Portfolio](https://ioannis-kavalidis.github.io/myPortfolio/) 
 
 ##  Looking forward to hearing from you soon! 
 
