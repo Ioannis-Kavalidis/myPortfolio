@@ -1,14 +1,15 @@
 #me {
-  font-size: 3rem;
-}
-
-#me {
   font-size: 2rem;
 }
 
 #about {
   margin-top: auto;
 }
+
+#navbarResponsive {
+  font-size: 1.25rem;
+}
+
 #pic1,
 #pic2,
 #pic3,
