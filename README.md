@@ -6,7 +6,7 @@
 
 ### I hope you all enjoy my portfolio website! Just follow the following link below to take a look at it: 
 
-LINK: [My Portfolio](https://ioannis-kavalidis.github.io/myPortfolio/) 
+### LINK: [My Portfolio](https://ioannis-kavalidis.github.io/myPortfolio/) 
 
 ###  Looking forward to hearing from you soon! 
 
