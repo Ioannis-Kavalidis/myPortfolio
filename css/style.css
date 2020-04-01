@@ -2,17 +2,23 @@
   font-size: 3rem;
 }
 
-#about {
-  font-size: 5rem;
+#me {
+  font-size: 2rem;
 }
-
-/* #fixed-bottom {
-  position: fixed;
-  height: 20px;
-  width: 100%;
-  bottom: 0;
-} */
 
 #about {
   margin-top: auto;
+}
+#pic1,
+#pic2,
+#pic3,
+#pic4,
+#pic5,
+#pic6 {
+  width: 800px;
+  height: 240px;
+}
+
+.lead {
+  text-align: center;
 }
