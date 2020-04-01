@@ -2,12 +2,21 @@
   font-size: 2rem;
 }
 
+.Slead,
+#navbarResponsive {
+  font-size: 1.2rem;
+}
+
+span {
+  font-size: 1.5rem;
+}
+
 #about {
   margin-top: auto;
 }
 
-#navbarResponsive {
-  font-size: 1.2rem;
+.lead {
+  text-align: center;
 }
 
 #pic1,
@@ -18,8 +27,4 @@
 #pic6 {
   width: 800px;
   height: 240px;
-}
-
-.lead {
-  text-align: center;
 }
