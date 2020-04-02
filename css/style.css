@@ -19,6 +19,33 @@ span {
   text-align: center;
 }
 
+.masthead {
+  background-image: url(../img/arrow.jpeg);
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+#portfolio {
+  background-image: url(../img/mac2.jpeg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+#contact {
+  background-image: url(../img/mac1.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.form-group {
+  border-color: grey;
+}
+
 #pic1,
 #pic2,
 #pic3,
